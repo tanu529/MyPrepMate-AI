@@ -1,26 +1,27 @@
 # MyPrepMate AI – Requirements Document
 
 ## Problem Statement
-Students preparing for placements, competitive exams, and coding interviews often struggle with inconsistency, lack of personalized study plans, and not knowing their weak areas. They rely on multiple platforms but do not get a unified, intelligent system that guides them daily based on their performance.
+Tier-2 and Tier-3 college students across India face a major gap in placement preparation due to lack of proper mentorship, unstructured learning paths, and limited access to personalized guidance. They follow random resources without knowing their current skill level or what to focus on next, which leads to inconsistency, low confidence, and missed opportunities.
 
 ## Proposed Solution
-MyPrepMate AI is an AI-powered study and coding productivity assistant that generates personalized daily learning plans, recommends practice questions, tracks performance, and provides simple explanations for aptitude and coding problems.
+MyPrepMate AI is an AI-powered placement companion that analyzes a student’s current skill level, understands their career goal (e.g., 8+ LPA job), and generates a personalized roadmap with daily actionable tasks. It continuously tracks progress, identifies the reality gap between current and required skills, and provides smart recommendations for aptitude, DSA, and core subjects.
 
 ## Target Users
-- Placement preparation students
-- Competitive exam aspirants
+- Tier-2 and Tier-3 college students
+- Placement aspirants
 - Beginner to intermediate coders
-- College students
+- Students with limited mentorship access
 
 ## Key Features
-- AI-generated daily study planner
-- Personalized aptitude and DSA questions
-- Weak area detection and improvement suggestions
-- Simple AI-based doubt explanations
+- AI-powered placement roadmap generator
+- Reality gap analyzer (current level vs required level)
+- Personalized daily action plan
+- Smart DSA & aptitude question recommendation
 - Progress tracking dashboard
+- Low-resource mode for students with limited internet access
 
 ## Unique Selling Point (USP)
-Unlike traditional learning platforms,MyPrepMate AI provides a fully personalized daily action plan using AI, helping students stay consistent, focused, and productive without feeling overwhelmed.
+MyPrepMate AI acts as a 24/7 personalized placement mentor for underserved students, providing structured guidance, real-time progress tracking, and AI-driven decision making for what to study next.
 
 ## Expected Impact
-This solution will help students improve their preparation efficiency, reduce confusion about what to study next, and increase their chances of success in placements and competitive exams.
+This solution empowers millions of students from non-elite colleges with the right direction, improves placement success rates, reduces preparation confusion, and makes quality mentorship accessible to everyone.
